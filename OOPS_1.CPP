@@ -1,5 +1,6 @@
 #include <iostream>
 #include "hero.cpp"
+#include<cstring>
 using namespace std;
 
 
