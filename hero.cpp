@@ -5,7 +5,7 @@ using namespace std;
 class Hero {
     public:
     Hero(){
-        cout << "Constructor is Called" << endl;
+        cout << "Constructor is Called a bitch" << endl;
     }
     
     private:
