@@ -9,7 +9,7 @@ int main () {
     cout << "Hello World!" << endl;
 
     // an object has been created
-    Hero h1;
+    Hero h1; 
     cout << "size : " << sizeof(h1) << endl;
 
 
